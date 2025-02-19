@@ -1,0 +1,35 @@
+{
+  "name": "openai-wrapper",
+  "version": "0.0.1",
+  "description": "OpenAI API wrapper. No need to pay $20 for 2 reqs per month.",
+  "main": "index.js",
+  "dependencies": {
+    "openai": "latest",
+    "readline": "latest",
+    "colors": "latest",
+    "dotenv": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langedechu/openai-wrapper.git"
+  },
+  "keywords": [
+    "openai",
+    "api",
+    "wrapper"
+  ],
+  "author": {
+    "name": "langedechu",
+    "email": "contact@belledev.eu",
+    "url": "https://github.com/langedechu"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/langedechu/openai-wrapper/issues"
+  },
+  "homepage": "https://github.com/langedechu/openai-wrapper#readme"
+}
